@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDTestApplication</string>
+    <string name="show_txt">Refresh</string>
+    <string name="null_txt">NULL</string>
+</resources>
